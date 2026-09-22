@@ -42,11 +42,3 @@ This repository contains the required screenshots and documentation for Individu
 2. **Missing File Mapping (`ORA-65016`):** Handled directory mapping requirements during container creation to ensure the physical data files mapped correctly.
 3. **Container Authentication:** Ensured authentication defaulted properly to the root container (`CDB$ROOT`) during OEM login to access global performance tracking metrics.
 
-## Integrity Statement
-I confirm that this work is my own, completed independently in accordance with course guidelines and academic integrity standards. All tasks, scripts, and screenshots were generated and captured by me.
-
-# Submission Details 
-
-Repository Link: [https://github.com/](https://github.com/)[Your-BLACK-ICEMAN]/oracle_pdb_ass_II_29844_cyusa
-PDB Name Created: cy_pdb_29844
-Issues Encountered: Yes (Addressed syntax and container path configuration)
